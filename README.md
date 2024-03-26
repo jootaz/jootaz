@@ -10,7 +10,7 @@
 
   - 🌱 I’m currently studying Information systems at São Judas Tadeu University <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for the job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I'm looking for a job opportunity. My dream is to one day work with Website Development and API.
 </p>
 
 <!-- Dropdown -->

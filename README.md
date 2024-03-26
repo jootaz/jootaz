@@ -17,7 +17,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 I am 21 years old, currently living in Brazil. I have intermediate fluency in English and have experience with SQL, HTML, CSS and JS. From an early age, I followed a lot of content focused on this area, which helped me develop important skills such as creativity, communication, marketing and social media.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>

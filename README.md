@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Jota! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Jota! A passionate Information systems student from Brazil.
 
   - 🌱 I’m currently studying Information systems at São Judas Tadeu University <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 

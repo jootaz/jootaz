@@ -28,7 +28,7 @@
 [![Discord](https://img.shields.io/badge/Discord-20BEFF?style=for-the-badge&logo=Discord&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)
+![JotaZy GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaZy&show_icons=true&theme=gotham)
 
 <!-- GIF -->
 <p align="left">

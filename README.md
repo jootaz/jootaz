@@ -1,17 +1,5 @@
-## Olá eu sou o JotaZy, desenvolvedor front-end!
+@@ -1,4 +1,4 @@
+ < img  largura = 100%  src = " https://capsule-render.vercel.app/api?type=waving& ecolor=0000 &height=120 & sect ion=header " />
+< img  largura = 100%  src = " https://capsule-render.vercel.app/api?type=waving& color=415ce1 &height=120 & sect ion=header " />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/jota.set" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/KaT2GbHQKX" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:jadirf0609@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/jadir-freire-jr-77a6b9228" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
+ [ ![ Digitando SVG ] ( https://readme-typing-svg.herokuapp.com/?color=add8e6&size=35¢er=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Danilo+Tolini;Eu sou +19+anos+;Sou+do+Brasil;Estou+estudando+Informática+Ciências;Seja+Bem-vindo! )] ( https://git.io/typing-svg )  

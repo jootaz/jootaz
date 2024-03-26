@@ -24,7 +24,7 @@
 
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jota.set/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jadir-freire-jr-77a6b9228)
 [![Discord](https://img.shields.io/badge/Discord-20BEFF?style=for-the-badge&logo=Discord&logoColor=white)](https://www.kaggle.com/variablebee)
 
 <!-- GithubStats -->

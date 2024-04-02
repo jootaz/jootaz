@@ -29,6 +29,9 @@
 
 <!-- GithubStats -->
 ![JotaZy GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaZy&show_icons=true&theme=gotham)
+<a href="https://github.com/JotaZy">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JotaZy&theme=radical" />
+</a>
 
 <!-- GIF -->
 <p align="left">

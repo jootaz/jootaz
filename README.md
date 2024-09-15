@@ -28,8 +28,8 @@
 [![Discord](https://img.shields.io/badge/Discord-20BEFF?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/zcqdeVU8RY)
 
 <!-- GithubStats -->
-![JotaZy GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaZy&show_icons=true&theme=gotham)
-<a href="https://github.com/JotaZy">
+![JotaTk GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaTk&show_icons=true&theme=gotham)
+<a href="https://github.com/JotaTk">
 
 <!-- GIF -->
 <p align="left">

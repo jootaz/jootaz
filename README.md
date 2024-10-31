@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Jota! A passionate web developer student from Brazil.
 
-  - 🌱 I’m currently studying Information systems at <a href="https://www.fiap.com.br/">FIAP University</a>
+  - 🌱 I’m currently studying Web Design at <a href="https://www.fiap.com.br/">FIAP University</a>
   - 🔭 I'm looking for a job opportunity. My dream is to one day work with Website Development and API.
 </p>
 

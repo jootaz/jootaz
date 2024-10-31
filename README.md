@@ -8,8 +8,7 @@
 <p>
   Hi 👋, I'm Jota! A passionate web developer student from Brazil.
 
-  - 🌱 I’m currently studying Information systems at São Judas Tadeu University <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  - 🌱 I’m currently studying Information systems at São Judas Tadeu University <a href="https://www.fiap.com.br/">FIAP</a>
   - 🔭 I'm looking for a job opportunity. My dream is to one day work with Website Development and API.
 </p>
 

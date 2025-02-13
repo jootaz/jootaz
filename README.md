@@ -27,7 +27,7 @@
 [![Discord](https://img.shields.io/badge/Discord-20BEFF?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.gg/zcqdeVU8RY)
 
 <!-- GithubStats -->
-![JotaTk GitHub stats](https://github-readme-stats.vercel.app/api?username=jootaz&show_icons=true&theme=gotham)
+![jootaz GitHub stats](https://github-readme-stats.vercel.app/api?username=jootaz&show_icons=true&theme=gotham)
 <a href="https://github.com/jootaz">
 
 <!-- GIF -->

@@ -28,7 +28,7 @@
 
 <!-- GithubStats -->
 ![JotaTk GitHub stats](https://github-readme-stats.vercel.app/api?username=jootaz&show_icons=true&theme=gotham)
-<a href="https://github.com/JotaTk">
+<a href="https://github.com/jootaz">
 
 <!-- GIF -->
 <p align="left">

@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I have intermediate fluency in English and have experience with JAVA, SQL, HTML, CSS and JS. From an early age, I followed a lot of content focused on this area, which helped me develop important skills such as creativity, communication, marketing and social media.
+  - 💬 I am 22 years old, currently living in Brazil. I have intermediate fluency in English and have experience with JavaScript, Node.js, HTML, CSS, IU/UX Design. From an early age, I followed a lot of content focused on this area, which helped me develop important skills such as creativity, communication, marketing and social media.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
@@ -32,7 +32,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://i.redd.it/xaq5fbhr07yb1.gif" alt="Imagem">
+  <img align="center" src="https://preview.redd.it/mw4y58i658981.gif?width=750&auto=webp&s=d1f8893494ed1d8e9f731f4b7e7915ca7e4039dc" alt="Imagem">
 </p>
 
 ## 🔥 Skills
@@ -40,10 +40,9 @@
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/node.js/node.js-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
   <!-- Skills: Tools & Frameworks -->

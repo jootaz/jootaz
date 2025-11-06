@@ -16,7 +16,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 22 years old, currently living in Brazil. I have intermediate fluency in English and have experience with JavaScript, Node.js, HTML, CSS, IU/UX Design. From an early age, I followed a lot of content focused on this area, which helped me develop important skills such as creativity, communication, marketing and social media.
+  - 💬 I am 23 years old, currently living in Brazil. I have intermediate fluency in English and have experience with JavaScript, Node.js, HTML, CSS, IU/UX Design. From an early age, I followed a lot of content focused on this area, which helped me develop important skills such as creativity, communication, marketing and social media.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
